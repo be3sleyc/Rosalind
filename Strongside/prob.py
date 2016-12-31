@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Introduction to Random Strings http://rosalind.info/problems/prob/
 # input: A DNA string s of length at most 100 bp and an array A 
 #	containing at most 20 numbers between 0 and 1.
 #output: An array B having the same length as A in which B[k] represents

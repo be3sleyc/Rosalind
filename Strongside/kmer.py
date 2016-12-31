@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# k-Mer Composition http://rosalind.info/problems/kmer/
 # input: A DNA string s in FASTA format (having length at most 100 kbp).
 #output: The 4-mer composition of s.
 

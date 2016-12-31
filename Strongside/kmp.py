@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Speeding up Motif Finding http://rosalind.info/problems/kmp/
 # input: A DNA string s (of length at most 100 kbp) in FASTA format.
 #output: The failure array of s.
 

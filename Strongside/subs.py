@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Finding a motif in DNA http://rosalind.info/problems/subs/
 # input: Two DNA strings s and t(each of length at most 1 kbp).
 #output: All locations of t as a substring of s.
 

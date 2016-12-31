@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Merge Sort http://rosalind.info/problems/ms/
 # input: A positive integer n<=10^5 and an array A[1..n] of integers from 
 #	-105 to 105.
 #output: A sorted array A[1..n].

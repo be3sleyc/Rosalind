@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Constructing a De Bruijn Graph http://rosalind.info/problems/dbru/
 # input: A collection of up to 1000 DNA strings of equal length 
 #	(not exceeding 50 bp) corresponding to a set S of (k+1)-mers.
 #output: The adjacency list corresponding to the de Bruijn graph 

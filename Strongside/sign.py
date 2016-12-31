@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Enumerating Oriented Gene Orderings http://rosalind.info/problems/sign/
 # input: A positive integer n<=6.
 #output: The total number of signed permutations of length n, followed 
 #	by a list of all such permutations (you may list the signed 

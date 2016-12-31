@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Consensus and Profile http://rosalind.info/problems/cons/
 # input:A collection of at most 10 DNA strings of equal length (at most 
 #	1 kbp) in FASTA format.
 #output: A consensus string and profile matrix for the collection. (If 

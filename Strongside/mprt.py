@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Finding a protein motif http://rosalind.info/problems/mprt/
 # input: At most 15 UniProt Protein Database access IDs.
 #output: For each protein possessing the N-glycosylation motif(N^P[ST]^P), output 
 #	its given access ID followed by a list of locations in the protein 

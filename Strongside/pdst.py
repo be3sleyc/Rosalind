@@ -1,5 +1,12 @@
 #! /usr/bin/env python
 
+# Creatring a distance matrix http://rosalind.info/problems/pdst/
+# Given: A collection of n (n≤10) DNA strings s1,...,sn of equal length 
+#	(at most 1 kbp). Strings are given in FASTA format.
+# Return: The matrix D corresponding to the p-distance dp on the given 
+#	strings. As always, note that your answer is allowed an absolute 
+#	error of 0.001. 
+
 import sys
 
 def p_distance(A, B):

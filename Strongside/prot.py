@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Translating RNA to Protein http://rosalind.info/problems/prot/
 # input: An RNA string s corresponding to a strand of mRNA (of length at
 #	most 10 kbp).
 #output: The protein string encoded by s.

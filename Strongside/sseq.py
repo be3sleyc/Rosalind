@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Finding a Spliced Motif http://rosalind.info/problems/sseq/
 # input: Two DNA strings s and t (each of length at most 1 kbp) in FASTA
 #	format.
 #output: One collection of indices of s in which the symbols of t appear 

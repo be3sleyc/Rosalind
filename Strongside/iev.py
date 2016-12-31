@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Calculating Expected Offspring http://rosalind.info/problems/iev/
 # input: Six positive integers, each of which does not exceed 20,000. 
 #	The integers correspond to the number of couples in a population 
 #	possessing each genotype pairing for a given factor. In order, the 

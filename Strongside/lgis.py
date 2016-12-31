@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Longest Increasing Subsequence http://rosalind.info/problems/lgis/
 # input: A positive integer n<=10000 followed by a permutation p of 
 #	length n.
 #output: A longest increasing subsequence of p, followed by a longest 

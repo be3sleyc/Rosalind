@@ -1,4 +1,6 @@
 #! /usr/bin/env python
+
+# Counting Point Mutations http://rosalind.info/problems/hamm/
 # input: Two DNA strings s and t of equal length (not exceeding 1 kbp).
 #output: The Hamming distance dH(s,t)
 

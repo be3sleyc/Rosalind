@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Enumerating Gene Order http://rosalind.info/problems/perm/
 # input: A positive integer n<=7.
 #output: The total number of permutations of length n, followed by a 
 #	list of all such permutations (in any order).

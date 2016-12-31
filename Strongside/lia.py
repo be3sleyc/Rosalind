@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Independant Alleles http://rosalind.info/problems/lia/
 # input: Two positive integers k (k<=7) and N (N<=2k). In this problem, we 
 #	begin with Tom, who in the 0th generation has genotype Aa Bb. Tom has 
 #	two children in the 1st generation, each of whom has two children, and 

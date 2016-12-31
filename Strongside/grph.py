@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Overlap Graphs http://rosalind.info/problems/grph/
 # Input: A collection of DNA strings in FASTA format having total length
 #	at most 10 kbp.
 #Output: The adjacency list corresponding to O_3. You may return edges 

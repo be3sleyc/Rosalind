@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Genome Assembly with Perfect Coverage http://rosalind.info/problems/pcov/
 # input: A collection of (error-free) DNA k-mers (k<=50) taken from the 
 #	same strand of a circular chromosome. In this dataset, all k-mers 
 #	from this strand of the chromosome are present, and their de Bruijn 

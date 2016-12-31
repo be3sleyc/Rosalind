@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Inferring mRNA from protein http://rosalind.info/problems/mrna/
 # input: A protein string of length at most 1000 aa.
 #output: The total number of different RNA strings from which the protein
 #	could have been translated, modulo 1,000,000. (Don't neglect the 

@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# RNA Splicing http://rosalind.info/problems/splc/
 # input: A DNA string s (of length at most 1 kbp) and a collection of 
 #	substrings of s acting as introns. All strings are given in FASTA 
 #	format.

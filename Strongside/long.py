@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Genome Assembly as shortest superstring http://rosalind.info/problems/long/
 # input: At most 50 DNA strings whose length does not exceed 1 kbp in 
 #	FASTA format (which represent reads deriving from the same strand of
 #	a single linear chromosome).

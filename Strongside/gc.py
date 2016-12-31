@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Computing GC Content http://rosalind.info/problems/gc/
 # input: At most 10 DNA strings in FASTA format (of length at most 
 #	1 kbp each).
 #output: The ID of the string having the highest GC-content, followed by

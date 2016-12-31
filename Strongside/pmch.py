@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Perfect Matchings and RNA Secondary Structures http://rosalind.info/problems/pmch/
 # input:An RNA string s of length at most 80 bp having the same number 
 #	of occurrences of 'A' as 'U' and the same number of occurrences of 
 #	'C' as 'G'.

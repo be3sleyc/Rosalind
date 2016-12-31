@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Open Reading Frames http://rosalind.info/problems/orf/
 # input: A DNA string s of length at most 1 kbp in FASTA format.
 #output: Every distinct candidate protein string that can be translated 
 #	from ORFs of s. Strings can be returned in any order.

@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Enumerating K-mers Lexicographically http://rosalind.info/problems/lexf/
 # input: A collection of at most 10 symbols defining an ordered alphabet
 #	, and a positive integer n (n<=10).
 #output: All strings of length n that can be formed from the alphabet, 

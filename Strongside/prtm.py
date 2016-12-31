@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Calculating Protein Mass http://rosalind.info/problems/prtm/
 # input: A protein string P of length at most 1000 aa.
 #output: The total weight of P. Consult the monoisotopic mass table.
 

@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Transitions and Transversions http://rosalind.info/problems/tran/
 # input: Two DNA strings s1 and s2 of equal length (at most 1 kbp).
 #output: The transition/transversion ratio R(s_1,s_2).
 

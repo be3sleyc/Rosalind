@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Complementing a Strand of DNA http://rosalind.info/problems/revc/
 # input: A DNA string s of length at most 1000 bp.
 #output: The reverse complement sc of s.
 

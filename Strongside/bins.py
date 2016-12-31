@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 
+# Binary Search http://rosalind.info/problems/bins/
 # Input: Two positive integers n<=10^5 and m<=10^5, a sorted array A[1..n]
 #	of integers from -10^5 to 10^5 and a list of m integers 
 #	-10^5<=k_1,k_2,...,k_m<=10^5.
